@@ -1,0 +1,9 @@
+npm install
+ls
+npm run build
+npm install
+npm install ts-loader
+npm install typescript
+npx webpack
+npm install -g webpack webpack-cli
+npx webpack
